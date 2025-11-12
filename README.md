@@ -1,16 +1,16 @@
 <div align="center">
 
- **SOC Team Coordinator | Cybersecurity Analyst | System & Network Administrator | AI enthousiate**  
-<br/>
+ **SOC Team Coordinator | Cybersecurity Analyst | System & Network Administrator | AI enthusiast**  
+<br>
 
-  Hi, I'm Paul-Aurian — a bilingual (FR/EN) cybersecurity professional with hands-on experience safeguarding critical national infrastructure. I lead a 24/7 SOC team at ATOS for anomaly detection and incident response. Passionate about resilient systems, data protection, AI, and turning complex threats into actionable insights. Relocatable outside the EU — let's connect on [LinkedIn](https://linkedin.com/in/ppoinot) or [email](mailto:mail@ppoinot.fr).
+  Hi, I'm Paul-Aurian — a bilingual (FR/EN) cybersecurity professional with hands-on experience safeguarding critical national infrastructure. I lead a 24/7 SOC team at Atos for anomaly detection and incident response. Passionate about resilient systems, data protection, AI, and turning complex threats into actionable insights. Relocatable outside the EU.
   
 </div>
 
-<br/>
+<br>
 
 ## 🛡️ Professional Summary
-SOC Team Coordinator with proven expertise in supervising mission-critical systems for vital national organisations. I am driving proactive threat detection, incident response optimisation, access controls, and compliance with data protection and digital resilience standards. Leading a team of 12 cybersecurity analysts, I've streamlined processes to mitigate risks in fast-paced, confidential settings.
+SOC Team Coordinator with proven expertise in supervising mission-critical systems for vital national organisations. I drive proactive threat detection, incident response optimisation, access controls, and compliance with data protection and digital resilience standards. Leading a team of 12 cybersecurity analysts, I've streamlined processes to mitigate risks in fast-paced, confidential settings.
 
 **Key Strengths:**
 - Incident Response (IR) & Root Cause Analysis
@@ -18,7 +18,7 @@ SOC Team Coordinator with proven expertise in supervising mission-critical syste
 - Team Leadership & Cross-Functional Collaboration
 - Compliance (DPO, DORA) in High-Stakes Environments
 
-<br/>
+<br>
 
 ## 💻 Tech Stack
 🥞 Tools & Technologies I Master
@@ -38,7 +38,7 @@ SOC Team Coordinator with proven expertise in supervising mission-critical syste
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   <img src="https://img.shields.io/badge/TMART-FF6600?style=for-the-badge" alt="TMART"/>
   <img src="https://img.shields.io/badge/Archer-000000?style=for-the-badge&logo=archer&logoColor=white" alt="Archer"/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=" alt="Confluence"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=atlassian&logoColor=white" alt="Confluence"/>
   <img src="https://img.shields.io/badge/Obsidian-483D8B?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/macOS-A2AAAD?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
@@ -49,15 +49,15 @@ SOC Team Coordinator with proven expertise in supervising mission-critical syste
 
 <br>
 
-**Full Toolkit:** Programming (C, Python, PowerShell) | Cybersecurity Analysis (Splunk, QRadar, XSOAR, ThreatQ) | Monitoring (Centreon, SCOM, Visual TOM, Control-M, TMART, iLO, iDRAC) | Collaboration (HP Service Manager, Archer, Confluence, Obsidian, GitLab) | Virtualisation & Admin (VMware, Docker; Linux, Windows, macOS).
+**Full Toolkit:** Programming (C, Python, PowerShell) | Cybersecurity Analysis (Splunk, QRadar, XSOAR, ThreatQ) | Monitoring (Centreon, SCOM, V-TOM, Control-M, TMART, iLO, iDRAC) | Collaboration (HP Service Manager, Archer, Confluence, Obsidian, GitLab) | Virtualisation & Admin (VMware, Docker; Linux, Windows, macOS).
 
-<br/>
+<br>
 
 ## 🚀 Experience
 
 ### Cybersecurity Analyst & SOC Coordinator  
 **Atos, Olivet (FR)** | *January 2023 – Present*  
-Promoted to team lead in June 2023 after excelling in incident management and stakeholder communication. Direct a team of 12 brilliant analysts in a Security Operation Ccenter (SOC) for a vital national organisation, focusing on proactive threat detection, incident analysis, and coordinated responses while upholding data protection and cyber risk guidelines.
+Promoted to team lead in June 2023 after excelling in incident management and stakeholder communication. Direct a team of 12 talented analysts in a Security Operations Centre (SOC) for a vital national organisation, focusing on proactive threat detection, incident analysis, and coordinated responses while upholding data protection and cyber risk guidelines.
 
 - Coordinated surveillance and alert analysis via SIEM tools (Splunk, QRadar) to spot anomalies and data leaks; led targeted threat hunts to identify vulnerabilities and bolster access controls.
 - Orchestrated IR for complex events: root cause investigations, impact assessments, data-driven mitigations; partnered with CERT teams to contain threats and safeguard critical access rights.
@@ -75,7 +75,7 @@ Managed 24/7/365 production monitoring and optimisation of primarily on-premise 
 - Supervised and optimised application performance: Detected bottlenecks in tertiary/industrial networks, implementing solutions using Centreon, SCOM, V-TOM, and Control-M.
 - DevOps/CI/CD practices: Bash, Python, and PowerShell scripts to automate configurations and orchestration, enhancing efficiency and proactive monitoring with source control.
 
-<br/>
+<br>
 
 ## 📚 Education & Certifications
 | Certification | Institution | Year |
@@ -86,18 +86,18 @@ Managed 24/7/365 production monitoring and optimisation of primarily on-premise 
 | [SecNumAcadémie MOOC](https://anssi.fr) | ANSSI | 2019 |
 | [AWS Cloud](https://openclassrooms.com) | OpenClassrooms | 2019 |
 | IT & Economy | University of Orléans, FR | 2017–2019 |
-| C Programming | 42 (Born2Code), Paris | 2016–2017 |
+| Programming | 42 (Born2Code), Paris | 2016–2017 |
 
-<br/>
+<br>
 
 ## 📂 Featured Projects
 *Due to the fully confidential nature of my cybersecurity work—all professional projects are stored on private repositories — I am unable to share any of that content publicly here.*
 
-<br/>
+<br>
 
 ## 🌐 Let's Connect
-- 📧 [mail@ppoinot.fr](mailto:mai@ppoinot.fr)
+- 📧 [mail@ppoinot.fr](mailto:mail@ppoinot.fr)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ppoinot/)
-- 🌍 Relocatable outside EU — open to site/remote/hybrid roles in cybersecurity.
+- 🌍 Relocatable outside EU — open to on-site/remote/hybrid roles in cybersecurity.
 
 ---
