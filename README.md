@@ -32,24 +32,38 @@ SOC Team Coordinator with proven expertise in supervising mission-critical syste
   <img src="https://img.shields.io/badge/XSOAR-00D4AA?style=for-the-badge&logo=paloalto&logoColor=white" alt="XSOAR"/>
   <img src="https://img.shields.io/badge/ThreatQ-000000?style=for-the-badge&logo=threatq&logoColor=white" alt="ThreatQ"/>
   <img src="https://img.shields.io/badge/Centreon-FF6600?style=for-the-badge&logo=centreon&logoColor=white" alt="Centreon"/>
+  <img src="https://img.shields.io/badge/SCOM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCOM"/>
+  <img src="https://img.shields.io/badge/TMART-FF6600?style=for-the-badge" alt="TMART"/>
   <img src="https://img.shields.io/badge/VMware-0071C5?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/TMART-FF6600?style=for-the-badge" alt="TMART"/>
+  <img src="https://img.shields.io/badge/macOS-A2AAAD?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
   <img src="https://img.shields.io/badge/Archer-000000?style=for-the-badge&logo=archer&logoColor=white" alt="Archer"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=atlassian&logoColor=white" alt="Confluence"/>
   <img src="https://img.shields.io/badge/Obsidian-483D8B?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/macOS-A2AAAD?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-  <img src="https://img.shields.io/badge/SCOM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="SCOM"/>
   <img src="https://img.shields.io/badge/Grok-00D4AA?style=for-the-badge&logo=grok&logoColor=white" alt="Grok"/>
   <img src="https://img.shields.io/badge/MCP-1976D2?style=for-the-badge" alt="MCP"/>
 </div>
 
 <br>
 
-**Full Toolkit:** Programming (C, Python, PowerShell) | Cybersecurity Analysis (Splunk, QRadar, XSOAR, ThreatQ) | Monitoring (Centreon, SCOM, V-TOM, Control-M, TMART, iLO, iDRAC) | Collaboration (HP Service Manager, Archer, Confluence, Obsidian, GitLab) | Virtualisation & Admin (VMware, Docker; Linux, Windows, macOS).
+**Full Toolkit:**
+| Category | Tools |
+| :---:| :---: |
+| 🐍 **Programming & Scripting** | C, Python, PowerShell, Bash, Linux CLI |
+| 🔍 **Cybersecurity Analysis & SIEM** | Splunk, QRadar, XSOAR, ThreatQ, Sigma |
+| 📊 **Monitoring & Surveillance** | Centreon, SCOM, V-TOM, Control-M, TMART, iLO, iDRAC, Event Viewer |
+| 🚨 **Incident Response** | DeepBlueCLI, KAPE, ProcDump, PECmd, PICERL, Cyber Kill Chain |
+| 🔬 **Digital Forensics** | Autopsy, FTK Imager, Volatility, Scalpel, Wireshark, Browser History Capturer, Browser History Viewer, JumpList Explorer, Windows File Analyzer, WannaBrowser |
+| 🛡️ **Threat Intelligence** | ATT&CK, MISP, OpenCTI, VirusTotal, DomainTools |
+| 📧 **Phishing Analysis** | PhishTool, CyberChef, URL2PNG |
+| 📋 **Case Management** | TheHive5, Archer, HP Service Manager |
+| 📝 **Collaboration & Documentation** | Confluence, Obsidian, GitLab |
+| 🖥️ **Virtualisation & System Admin** | VMware incl. ESXi, Docker, Proxmox, CentOS, Red Hat, Debian, Linux, Windows, macOS, Active Directory |
+| 🤖 **Artificial Intelligence** | Grok, Grok CLI, ChatGPT, MCP Servers, Agentic Workflows, LLMs, Prompt Engineering |
+| 🔌 **Homelab** | HP ProLiant, UniFi Dream Machine Pro, VPN (cluster, site-to-site, ...), iLO, Raspberry Pi, ESP, iot |
 
 <br>
 
@@ -88,6 +102,7 @@ Managed 24/7/365 production monitoring and optimisation of primarily on-premise 
 | IT & Economy | University of Orléans, FR | 2017–2019 |
 | Programming | 42 (Born2Code), Paris | 2016–2017 |
 
+*I am team VIM by-the-way*
 <br>
 
 ## 📂 Featured Projects
